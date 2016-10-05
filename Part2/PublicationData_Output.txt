@@ -1,0 +1,24 @@
+200900210 C_# 2007 D._Smith 109.99 387
+200900211 Cellular_Communications 2010 Jones_Tomson 127.87 162
+465979798 From_Java_to_C++ 2008 Linda_Jackson 118.73 439
+529086890 Software_Engineering 2005 Alain_Macmillan 219.99 651
+529086891 Database_Systems 2007 Peter_Jones_and_Jack_Lewis 157.87 862
+542087665 Pattern_Recognition 1998 Sam_Davis 212.59 328
+760098908 Microsoft_VC++ 2006 Garry_Wesley 165.20 416
+765867998 Java_Applications_for_Programmers 2010 David_Wilson_and_Jack_Westman 173.25 672
+765867999 Visual_Basic	2004 Mary_Rosen 108.33 388
+800003243 VLSI 2008 Martha_Niclson 117.29 360
+900876510 Core_Java 2007 Mike_Simon 129.99 568
+900876511 Programming_Methodologies 2009 Steve_A._Richmond 182.95 590
+900876512 OO_Programming 2008 Frank_Raymond 182.25 439
+900876513 Design_Pattern 2002 Jay_Franklin 122.15 217
+900876514 Networking_and_Data_Communications 2010 Pete_Jonson 229.25 724
+
+900876515 Facebook&Friends 2016 Luis_Saravia_Patron 650.5 300
+900876516 Doing_Assignments_at_Concordia 2016 Luis_Saravia_Patron 500.9 200
+900876517 Random 1997 Queco 2.22 3
+900876518 Melt 2016 Luis 4.4 4
+999999999 The_Last_Publication_Code 2016 Luis_LongWolf 999.0 1000
+1000000000 One_more_time 2016 Luis_Saravia_Patron 999.99 1
+1000000001 Magoya_&_Friends 1977 Fulano 4.5 45
+1000000002 TheBook 1200 Fulano 2.5 3
